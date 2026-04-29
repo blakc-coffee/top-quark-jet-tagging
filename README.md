@@ -43,3 +43,7 @@ pip install torch torchvision numpy pandas matplotlib scikit-learn tqdm h5py tab
 Download `train.h5` from Zenodo, place in project root, then:
 python build_dataset.py
 python train_all.py
+
+## Project Idea
+Based on MathWorks MATLAB-Simulink Challenge Project #238.  
+https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/projects/Top%20Quark%20Detection%20with%20Deep%20Learning%20and%20Big%20Data
