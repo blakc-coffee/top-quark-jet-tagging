@@ -46,4 +46,4 @@ python train_all.py
 
 ## Project Idea
 Based on MathWorks MATLAB-Simulink Challenge Project #238.  
-https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/projects/Top%20Quark%20Detection%20with%20Deep%20Learning%20and%20Big%20Data
+https://github.com/blakc-coffee/top-quark-jet-tagging/blob/main/README.md
